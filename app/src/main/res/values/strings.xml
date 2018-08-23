@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Muvies</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_browse">Browse</string>
+    <string name="title_saved">Saved</string>
+    <string name="title_account">Account</string>
+    <string name="search_hint">Search for Movies, Actors and Genres</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="recently_added">Recently Added</string>
+    <string name="see_all">See All</string>
+    <string name="continue_watching">Continue Watching ...</string>
+    <string name="trending_nearby">Trending Nearby</string>
+</resources>
